@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @viasiuk or Lívia
-- 👀 I’m interested in technology, reading suspense and fantasy. I also like sports, such as running and gymnastic. 
-- 🌱 I’m currently learning programing and algorithm. I`m new on this subject,but I was always my dream to learn it and now I studing Software engineering.
+- 👋 Hi, Lívia or Viasiuk.
+  
+- 👀 I'm a software engineering student. 
+- 🌱 I’m currently learning programing. 
 - 💞️ I’m looking to knowledge, learn new things is my passion, maybe because I'm way too curious.
-- 📫 How to reach me? Well, email me: liviasiuk@yahoo.com.br or tarasiuklivia@gmail.com.
 - 😄 Pronouns: She/Her
   
 
